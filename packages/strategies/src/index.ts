@@ -24,3 +24,4 @@ export * from "./funding";
 export * from "./scenario";
 export * from "./delta-neutral";
 export * from "./costs";
+export * from "./slippage-model";
